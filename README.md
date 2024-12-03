@@ -3,7 +3,7 @@
 ## Description
 *An advanced web scraping tool designed to collect business data from Instagram, specifically targeting Spanish-speaking e-commerce and online businesses. The scraper intelligently handles anti-bot measures and provides structured data output for market research purposes.*
 
-> [!IMPORTANT]
+> [!CAUTION]
 > This software is provided for educational and research purposes only. The author and contributors assume no responsibility for any misuse or damage resulting from the use of this program.
 
 ### Target criteria
