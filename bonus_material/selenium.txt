@@ -1,0 +1,41 @@
+==============================
+SELENIUM
+==============================
+
+---------------------
+Fundamentals
+---------------------
+
+The core of selenium is webDriver.
+
+WEBDRIVER: Interface to write sets of instructions that can be run in many browsers.
+
+---------------------
+WAITS
+---------------------
+
+Implicit Waits
+---------------
+Selenium waits for a defined maximum amount of time for ALL elements to be present before throwing a NoSuchElementException.
+    - Applied globally across all elements in the script.
+
+Explicit Waits
+---------------
+Selenium waits for specific conditions (like visibility or clickability) for individual elements, with a defined timeout.
+    - Applied to specific elements or conditions in the script.
+
+Implicit vs Explicit
+---------------
+- Implicit Wait: Simple but less precise, applied globally.
+- Explicit Wait: More precise and efficient, but requires more setup and control over conditions.
+
+NOTE: Warning! Do not mix implicit and explicit waits. Doing so can cause unpredictable wait times.
+
+-----------------
+Additional Tips
+-----------------
+
+
+-----------------
+End of Document
+

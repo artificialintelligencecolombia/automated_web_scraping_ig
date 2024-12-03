@@ -1,0 +1,39 @@
+==============================
+COUNTER ANTI WEB SCRAPING BLOCKING
+==============================
+
+---------------------
+Instagram scraping
+---------------------
+
+Process of collectiong data from ig -> using software or scripts.
+(profiles, comments, posts, followers, likes, etc.)
+
+- Can be performed through IG APIs or through UNOFFICIAL METHODS.
+- Unofficial methods may violate the instagram terms and policies.
+
+---------------------
+Data That Can Be Scraped 
+---------------------
+
+Fetching instagram data.
+
+instaloader
+instascrape*
+instagrapi
+
+-----------------
+Anonimous Purposes
+-----------------
+
+Torpy: A pure Python implementation of a Tor client, Torpy enables communication with both clearnet hosts and hidden services through the Tor network. It supports v2 hidden services, basic and stealth authorization protocols, and provides utilities like TorHttpAdapter for HTTP requests and a SOCKS5 proxy PYPI. *
+
+Stem: Developed by the Tor Project, Stem is a Python library designed for interacting with the Tor network. It allows you to control Tor, monitor its status, and automate tasks such as IP address renewal. While not specifically tailored for traffic routing, Stem provides the necessary tools to manage Tor's functionalities. *
+
+Proxtor: This library simplifies interactions with Tor, assisting with IP renewal and facilitating GET/POST requests through the network. Proxtor requires Tor to be installed and running on your machine 
+PYPI.
+
+
+-----------------
+End of Document
+
